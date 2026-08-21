@@ -56,6 +56,11 @@ The game will start in your terminal.
 
 After the game ends, you can choose whether to play again.
 
+## Demo Video
+This video showcases one of the many possible storylines of this game.
+
+https://github.com/user-attachments/assets/a97a7427-3e7f-4313-bb1c-3b8e623c1964
+
 ## What I Learned
 
 This project helped me practice:
