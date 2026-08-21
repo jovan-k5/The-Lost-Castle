@@ -72,7 +72,7 @@ This project helped me practice:
 ## Problems I Encountered
 
 * Had to learn how to structure a multi-stage terminal game using conditional logic.
-* Tried to track items individually. Later resulted to variables 
+* Initially used repetitive code to track individual items. I refactored the program to use variables for item tracking, making the code cleaner and easier to maintain.
 * Different player choices had the same outcomes.
   
 ## Development Process
