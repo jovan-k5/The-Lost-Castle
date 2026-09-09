@@ -155,7 +155,7 @@ int main(void)
             printf("A final puzzle protects the crown.\n");
 
             printf("\nThe inscription reads:\n");
-            printf("\"What gets wetter the more it dries?\"\n");
+            printf("\"What gets wetter as it dries?\"\n");
 
             printf("\n1. A towel\n");
             printf("2. A sponge\n");
